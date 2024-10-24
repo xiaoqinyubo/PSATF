@@ -1,1 +1,1 @@
-The PSATF-6mA model leverages a multi-head self-attention mechanism and statistical features of DNA double strands to improve 6mA site identification. Through cross-species validation, it outperforms baseline models, achieving an MCC of 0.982. This model aids biologists in more accurately identifying 6mA loci.
+The PSATF-6mA model leverages a multi-head self-attention mechanism and statistical features of DNA double strands to improve 6mA site identification. 
