@@ -1,0 +1,5 @@
+CNN: Input channel=1; Input length=39, Output channel=64, Padding=2; Kemel size=5; Dropout=0.5;lr=0.001; Epochs=1000; Early stopping=100; Batch size=64
+RNN:Input size=1; Input length=39, Hidden size=32; Num hidden layers=1; Dropout=0.5; lr=0.001, Epochs=1000, Early stopping=100, Batch size=64
+ResNet:Input size=1;input length=39,lr=0.001; Epochs=1000; Early_stopping=100; Batch size=64
+XGBoost:Depth range=(3, 10, 1) Learning rate range=(0.01, 0 3, 0.05)]
+LightGBM:Leaves range=(20,100,10);Depth range=(15,55,10);Learing rate range=(0.01, 0.15, 0.02)]
